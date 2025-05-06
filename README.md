@@ -1,5 +1,5 @@
 # ecommerce-platform
-# Detailed worflow 
+# Detailed Workflow 
 
 Great! Here's a **step-by-step workflow** for starting **Project 1** (Multi-Region E-Commerce Platform with Disaster Recovery and Geo-Redundancy) as a **solo developer** working within an organization, with a focus on **organization, documentation, tooling, and project delivery** using **Azure DevOps and other essential tools**.
 
